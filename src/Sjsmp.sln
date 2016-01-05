@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sjsmp", "Sjsmp\Sjsmp.csproj", "{74B470BD-6B30-476D-93F8-9EF714886EBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sjsmp.SampleClient", "Sjsmp.SampleClient\Sjsmp.SampleClient.csproj", "{933042C6-AD7B-4FF0-95F5-36841ECD8755}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sjsmp.SampleServer", "Sjsmp.SampleServer\Sjsmp.SampleServer.csproj", "{6613430E-7651-4CB8-BD62-05E8EC537A7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74B470BD-6B30-476D-93F8-9EF714886EBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74B470BD-6B30-476D-93F8-9EF714886EBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74B470BD-6B30-476D-93F8-9EF714886EBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74B470BD-6B30-476D-93F8-9EF714886EBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{933042C6-AD7B-4FF0-95F5-36841ECD8755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{933042C6-AD7B-4FF0-95F5-36841ECD8755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{933042C6-AD7B-4FF0-95F5-36841ECD8755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{933042C6-AD7B-4FF0-95F5-36841ECD8755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6613430E-7651-4CB8-BD62-05E8EC537A7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6613430E-7651-4CB8-BD62-05E8EC537A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6613430E-7651-4CB8-BD62-05E8EC537A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6613430E-7651-4CB8-BD62-05E8EC537A7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

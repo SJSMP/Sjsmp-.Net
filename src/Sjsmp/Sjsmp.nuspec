@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/SJSMP/Sjsmp-.Net/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/SJSMP/Sjsmp-.Net</projectUrl>
+    <iconUrl>https://github.com/SJSMP/sjsmp.github.io/blob/master/sjsmp.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>pre-initial release</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>service-management json</tags>
+  </metadata>
+</package>

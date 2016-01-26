@@ -1,0 +1,1 @@
+nuget.exe pack Sjsmp.csproj -Prop Configuration=Release -Symbols
